@@ -1,5 +1,5 @@
 ## Course Project
-Ongoing work as part of the course **Learning with Graphs** (CS768) taught by Prof. Abir De during Spring 2026 at the Indian Institute of Technology Bombay.
+Work done as part of the course **Learning with Graphs** (CS768) taught by Prof. Abir De during Spring 2026 at the Indian Institute of Technology Bombay.
 ### Team
 - Arijit Paul
 - Tushar Singha Roy
